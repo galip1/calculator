@@ -1,0 +1,32 @@
+.calculator {
+  width: 300px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: rgba(218, 46, 27, 0.786);
+}
+
+.calculator input[type="text"] {
+  width: 100%;
+  padding: 10px 0;
+  margin-bottom: 20px;
+  font-size: 20px;
+  border-radius: 5px;
+}
+
+.calculator button {
+  width: 50px;
+  height: 50px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  font-size: 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: #eee;
+  cursor: pointer;
+}
+
+.calculator button:hover {
+  background-color: #ddd;
+}
