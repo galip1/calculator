@@ -4,6 +4,7 @@
   border: 1px solid #ccc;
   border-radius: 5px;
   background-color: rgba(218, 46, 27, 0.786);
+  margin: auto;
 }
 
 .calculator input[type="text"] {
